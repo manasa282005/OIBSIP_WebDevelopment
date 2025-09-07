@@ -19,13 +19,10 @@ To design and develop a responsive single-page website for a Stand-Up Comedy Nig
 ##  Outcome / Results
 - A visually appealing, mobile-friendly event website.  
 - Clear structure with sections for event details, performer bio, tickets, testimonials, and FAQs.  
-- Interactive buttons and engaging layout to attract visitors.  
-
-## 🎥 Demo Video
-[Watch here](Paste_Your_Video_Link_After_Recording)
-
+- Interactive buttons and engaging layout to attract visitors.
+- 
 ## 🔗 LinkedIn Post
-[Read here](Paste_Your_LinkedIn_Post_Link_After_Sharing)
+[Read here]https://www.linkedin.com/posts/manasapagadalu_oibsip-internship-webdevelopment-activity-7369781781199286274-fcOm?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEbDhEQBnXnueLcA6lkDak0dY8kBvHHvyDU
 
 ## 👤 Author
 **Name:** Pagadalu Manasa  
